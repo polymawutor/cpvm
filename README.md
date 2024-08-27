@@ -1,0 +1,1 @@
+This repository introduces the Crypto Price Variance Model (CPVM), a novel approach to understanding and predicting cryptocurrency price movements.
